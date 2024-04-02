@@ -64,6 +64,16 @@
 .clr_black {
   color: var(--clr-black);
 }
+/* ======================================= background colors ================================ */
+.bg_lightgrey {
+  background-color: var(--clr-light-grey);
+}
+.bg_bluelight {
+  background-color: var(--clr-blue-light-bg);
+}
+.bg_darkblue {
+  background-color: var(--clr-dark-blue);
+}
 /* ======================================== font sizes root ================================ */
 .fs_5xl {
   font-size: var(--fs-5xl);
@@ -101,4 +111,17 @@
 /* ========================================= Font Family ====================================== */
 .ff_manrope {
   font-family: "Manrope";
+}
+/* ======================================== Line Heights ====================================== */
+.lh_120 {
+  line-height: 120%;
+}
+.lh_130 {
+  line-height: 130%;
+}
+.lh_140 {
+  line-height: 140%;
+}
+.lh_160 {
+  line-height: 160%;
 }
