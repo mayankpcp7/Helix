@@ -1,0 +1,18 @@
+.my-container {
+  max-width: 1280px;
+  padding-left: 12px;
+  padding-right: 12px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.blue-circle {
+  width: 12px !important;
+  height: 12px;
+  border-radius: 50%;
+  background: #137ee0;
+}
+
+.max_400 {
+  max-width: 400px;
+}
